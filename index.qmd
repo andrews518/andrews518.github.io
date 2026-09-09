@@ -1,11 +1,26 @@
 ---
-title: "DavidAndrews"
+title: "David Andrews"
+about: 
+  template: jolla
+  image: images/portrait.png
+  links: 
+    - icon: github
+      text: Github
+      href: htttps://github.com/andrews518
 ---
 
-This is a Quarto website.
+#### *Senior Research Scientist* 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Upstate Freshwater Institute, Syracuse NY
 
-```{r}
-1 + 1
-```
+I am just a guy who tried to follow his passion for the outdoors, always wanting to be out on the water but often found stuck behind a growing block of computer screens. I have a passion for marine systems, particularly the Gulf of Maine, despite my currently landlocked position in decidedly less salty waters.
+
+I currently support a number of projects related to freshwater science and management throughout New York State both through deployment and maintenance of near real time monitoring systems, as well as data analysis and reporting. I am always working towards efficient tools enabling reproducible research to help our environmental managers do their jobs more effectively.
+
+### Education
+
+PhD in Environmental Biology, State University of New York College of Environmental Science and Forestry \| In progress
+
+MS in Lake Management, State University of New York at Oneonta \| 2019
+
+BS in Aquatics and Fisheries Science, State University of New York College of Environmental Science and Foresty \| 2012

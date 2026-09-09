@@ -1,0 +1,63 @@
+---
+title: "Past Projects"
+---
+
+### [EPA Nine-Element Plans](https://extapps.dec.ny.gov/docs/water_pdf/9efaq17.pdf)
+
+I have worked to support a number of watershed nine-element plans during my tenure at UFI. My role has included the estimation of material (nutrient and sediment) loading coming from the land using empirical tools such as [FLUX32](https://www.pca.state.mn.us/business-with-us/water-monitoring-resources) software and the R Package [*loadflex*](https://github.com/DOI-USGS/loadflex), the estimation of dreissenid mussel populations, and watershed modelling with [GWLF-E](https://wikiwatershed.org/knowledge-base/water-quantity-and-quality-models/#7-2-1-the-gwlf-model) (Generalized Watershed Loading Functions - Enhanced).
+
+##### [Owasco Lake](https://www.cayugacounty.gov/1244/Owasco-Lake-Watershed-Nine-Element-Plan) (2019 - 2022)
+
+- Developed material loading estimates using FLUX32 software.
+
+- Watershed land use/land cover assessment using [QGIS](https://qgis.org/).
+
+- Estimated dreissenid mussel biomass, including both zebra and quagga mussels as a single profile with depth using linear regression models.
+
+##### [Skaneateles Lake](https://skaneateles9e.cnyrpdb.org/) (2021 - 2024)
+
+- Developed material loading estimates using FLUX32 software.
+
+- Watershed land use/land cover assessment using [QGIS](https://qgis.org/).
+
+- Estimated quagga mussel biomass as a series of depth profiles for each lake model segment using Bayesian heirarchical modelling.
+
+##### [Oneida Lake](https://www.cnyrpdb.org/oneida9e/) (complete - not released)
+
+- Developed material loading estimates using FLUX32 software.
+
+- Estimated dreissenid mussel biomass using sediment specific depth profiles within a linear modelling framework.
+
+##### [Sandy Creek](https://tughill.org/services/natural-resource-management/sandy-creeks-clean-water-planning/) (complete - not released)
+
+- Calibration and confirmation of GWLF-E watershed models for each of 13 HUC-12 watersheds under study.
+
+- Primary author of modeling report, including sensitivity analysis, model calibration, and management scenario runs reporting.
+
+##### [Otsego Lake (in-progress)](https://cooperstownny.gov/wp-content/uploads/2025/09/2025-08-21_Otsego-Public-Meeting-1_Boards.pdf)
+
+- Data GAP analysis to identify critical data needs for completing the nine-element process.
+
+- Quality Assurance Project Plan (QAPP) development for water quality sampling and dreissenid mussel collection components.
+
+- Developed material loading estimates using the USGS *loadflex* R package.
+
+### Lake Management Plans
+
+Plymouth Reservoir
+
+Butterfield Lake
+
+Ballston Lake
+
+Hyde Lake
+
+Hatch Lake & Bradley Brook Reservoir
+
+### River Herring Growth
+
+Utilizing data from the Massachusetts Division of Marine Fisheries Age and Growth lab, I evaluated growth patterns among six spawning runs in coastal Massachusetts. This work included the use of back-calculation of length at age using the [RFishBC](https://fishr-core-team.github.io/RFishBC/) package, then fitting those data to von-Bertalanffy growth models. This was the project where I was formally introduced to the use of Bayesian heirarchical modeling with [JAGS](https://mcmc-jags.sourceforge.io/) via the [R2jags](https://github.com/suyusung/r2jags) package.
+
+![](images/RH_underwater.JPG){fig-align="center" width="300"}
+
+### Miscellaneous

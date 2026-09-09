@@ -1,1 +1,5 @@
 /* css styles */
+figure.figure > figcaption,
+.cell-output-display > div > figcaption {
+  text-align: center;
+}
