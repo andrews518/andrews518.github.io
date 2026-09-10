@@ -22,3 +22,7 @@ My PhD research centers on two species of benthic bivalves which are invasive to
 ### Cazenovia Lake Macrophytes
 
 I've never been much for botany, outside of a keen interest in dendrology and the son of two forestry majors, but since UFI took over the aquatic macrophyte survey on Cazenovia Lake from Bob Johnson at Cornell I have become quite familiar with at least the aquatic plant community of this one NYS lake! We have a paper out for review that explores the use of herbicides to control Eurasian watermilfoil (*Myriophyllum spicatum*) and how the plant community has responded across the 20+ years of survey data.
+
+### Sea Lamprey Migration Phenology
+
+My time in New York has been punctuated by a shift away from fisheries work, but I have been trying for the past few years to launch a project exploring the use of environmental DNA (eDNA) to track the movement of sea lamprey from Lake Ontario tributaries as they make their journey to the lake as juveniles. This has been a historically difficult life period to study because they are hard to trap, requiring facing fyke nets upstream during the fall, during high flows. The use of eDNA could offer an opportunity to monitor these movements without the need for nets, but we need to first determine if the signal is powerful enough compared to its variability to definitively attribute changes in detection magnitude to lamprey movement.

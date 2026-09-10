@@ -44,15 +44,37 @@ I have worked to support a number of watershed nine-element plans during my tenu
 
 ### Lake Management Plans
 
-Plymouth Reservoir
+Plymouth Reservoir (SUNY Oneonta BFS [Technical Report](https://suny.oneonta.edu/biological-field-station/publications) #32)
 
-Butterfield Lake
+- During my first year of the MS program, our cohort collaboratively developed an interim management plan for a small reservoir in central New York.
+
+- Highlights included the creation of a bathymetric map, fisheries survey, and water quality analysis, resulting in recommendations for management actions to protect recreational use of the waterbody.
+
+Butterfield Lake (SUNY Oneonta BFS [Occasional Paper](https://suny.oneonta.edu/biological-field-station/publications) #66)
+
+- My thesis included study of coliform bacteria, fisheries, macrophytes, zooplankton, dreissenid mussels, water quality, and nutrient loading.
+
+- The culmination was a list of recommended actions to protect water quality and best uses of Butterfield Lake.
 
 Ballston Lake
 
-Hyde Lake
+- UFI and EcoLogic LLC collaborated to complete field sampling of this unique lake in Eastern NY. It is a meromictic lake, meaning that a portion of the water column never mixes to the surface.
 
-Hatch Lake & Bradley Brook Reservoir
+![Myself holding a sample from the deep "monimolimnion" layer of Ballston Lake.](images/ballston_mero.png){fig-align="center" width="223"}
+
+- My roles included field sampling, GIS analysis of the watershed, nutrient loading analysis using available historical data and GWLF-E watershed modeling, and review of report text.
+
+[Hyde Lake](https://www.facebook.com/groups/807750006603216/files/files)
+
+- Polymictic lake in Northen NY with a unique bathymetry.
+
+- My roles included field sampling, GIS analysis of the watershed, compilation and analysis of historical water quality data, and writing and review of the final report.
+
+[Hatch Lake & Bradley Brook Reservoir](https://www.hatchbradleybrook.org/water-quality/ufi-final-report-hbbla-bradley-brook-51724)
+
+- I was the primary investigator who reviewed three decades of historical data on two man-made reservoirs in central NY.
+
+- Using a combination of time series analysis, watershed modeling, GIS analysis, and site visits I was able to provide context to the lake association on recent changes to their waterbodies.
 
 ### River Herring Growth
 
@@ -60,4 +82,4 @@ Utilizing data from the Massachusetts Division of Marine Fisheries Age and Growt
 
 ![](images/RH_underwater.JPG){fig-align="center" width="300"}
 
-### Miscellaneous
+### 
