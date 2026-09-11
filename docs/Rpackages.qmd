@@ -2,3 +2,8 @@
 title: "R Packages"
 ---
 
+I started developing R packages during the winter last year, primarily as a means to start compiling the mess of code I have been building for almost a decade. So far, I've been working primarily to build internal package for my employer, The Upstate Freshwater Institute.
+
+### ImportUtils
+
+Terrible name, but works for us. Eventually I hope I can publish this one I think it could be useful to others. We switched from using YSI water quality sondes to In-Situ's line of AquaTroll sondes with the 6600 line from YSI being phased out. A major difference from the YSI sondes is that the AquaTroll's record the raw data.
