@@ -10,11 +10,11 @@ There are currently more than 32,000 followers of the Oneida Lake Diehards Faceb
 
 The goal is to deploy a buoy for the **2027 ice-free season** that provides publicly available, near-real-time information on **wind, weather, and water temperature**—giving anglers, boaters, swimmers, and other lake users a way to see current conditions before heading to the lake.
 
-The initial cost to get a basic platform operating is estimated at **\$12,000–15,000**, with approximately **\$5,000–7,000 per year** required for deployment, maintenance, and operation.
+The initial cost to build a basic monitoring buoy is estimated at approximately **\$17,000**. Once the buoy is constructed, annual operating costs would equal approximately **\$15,000 per year,** required for deployment, maintenance, and operation.
 
 The exciting part is that we aren't starting from scratch. The Upstate Freshwater Institute (UFI) already has experience operating monitoring buoys, some of the necessary infrastructure is already available, and Cornell has expressed support for the concept.
 
-**The immediate goal isn't to build the ultimate monitoring station. It's to get the first platform on the lake.**
+**The immediate goal isn't to build the ultimate monitoring station. It's to get the first buoy on the lake.**
 
 ## Why Oneida Lake?
 
@@ -32,37 +32,35 @@ Given my background and my company's experience with on-lake monitoring and near
 
 ## This isn't starting from scratch
 
-The [Upstate Freshwater Institute](https://www.upstatefreshwater.org/) (UFI) already operates several near-real-time [monitoring buoys](https://www.upstatefreshwater.org/data) that provide publicly available information for people recreating on local waterbodies.
+The [Upstate Freshwater Institute](https://www.upstatefreshwater.org/) (UFI) already operates several near-real-time [monitoring buoys](https://www.upstatefreshwater.org/data) that provide publicly available information for people recreating on local waterbodies. Our flagship station has been located on [Onondaga Lake](https://www.upstatefreshwater.org/data/onondaga-lake) since 2000, with publicly available data hosted by UFI starting in 2012.
 
-UFI is also currently monitoring four lakes in Allegheny and Harriman State Parks, as well as water quality in a western New York stream for research and regulatory projects.
+UFI is also currently monitoring four lakes in Allegany and Harriman State Parks, as well as water quality in a western New York stream for research and regulatory projects.
 
-As a result, we already have much of the infrastructure and expertise needed to operate a monitoring platform. UFI also has several platforms in storage that have been used for previous projects, including physical buoy components and mooring equipment.
+As a result, we already have much of the infrastructure and expertise needed to operate a monitoring buoy. UFI also has several buoys in storage that have been used for previous projects, including physical components and mooring equipment.
 
-That significantly reduces the cost of getting a new platform onto Oneida Lake.
+That significantly reduces the cost of getting a new monitoring buoy onto Oneida Lake.
 
-The primary remaining costs are specialized monitoring equipment that is already committed to other projects for 2027, along with the personnel time required to outfit, deploy, maintain, and retrieve the platform.
+The primary remaining costs are specialized monitoring equipment that is already committed to other projects for 2027, along with the personnel time required to outfit, deploy, maintain, and retrieve the buoy.
 
 ### Existing Support
 
 **Upstate Freshwater Institute**
 
-My current employer is willing to contribute considerable equipment to offset startup costs, as well as matching some personnel hours as necessary to keep the buoy operating.
+My current employer is willing to contribute considerable equipment to offset startup costs including the actual buoy hull, mooring system, and critical hardware including the datalogger ("brains") and cellular modem, equaling \~\$6 - 8,000.
 
 **Cornell**
 
-I visited the field station in July 2026 and spoke with Jim Watkins, the acting director. He expressed his support for the project and offered use of the field station docks as a staging area for our operations.
+I visited the field station in July 2026 and spoke with Jim Watkins, the acting director. He expressed his support for the idea, and we are currently in talks about use of the field station docks as a staging area for our operations.
 
-If the project moves forward, Cornell may also be interested in using the platform for research on Oneida Lake.
+If the project moves forward, Cornell may also be interested in using the buoy for research on Oneida Lake.
 
 **Oneida Lake Association**
 
-When I first started working at UFI seven years ago, I had a positive conversation with association leadership about putting a buoy on Oneida Lake. COVID interrupted those plans and the idea was put on the back burner.
-
-I have recently reached out to the association president and hope to build their support for the project as well.
+UFI has submitted a formal proposal to OLA for a collaboration to support a buoy and to establish efficient, transparent mechanisms for handling fundraising proceeds. Updates will be posted here as the proposal is reviewed.
 
 ## What would the buoy provide?
 
-![UFI engineer troubleshooting a Lake Ontario buoy, with MET station in background](images/sodus_dod.jpg){fig-align="center" width="188"}
+![UFI engineer troubleshooting a Lake Ontario buoy, with MET station in background. ](images/sodus_dod.jpg){fig-align="center" width="188"}
 
 The initial goal is to provide the information that would be most useful to people using the lake.
 
@@ -76,7 +74,7 @@ We use all-in-one meteorological stations from [Young](https://www.youngusa.com/
 - Relative humidity
 - Air temperature
 
-An internal compass allows the station to accurately determine wind direction. The initial cost estimate is based on purchase of only this station, and the other critical equipment.
+An internal compass allows the station to accurately determine wind direction. The initial cost estimate is based on purchase of only this station.
 
 ### 2. Water temperature
 
@@ -108,29 +106,29 @@ Because of data-transmission limitations, we typically record approximately 15 s
 
 The initial challenge is that **startup costs are considerably higher than the annual cost of keeping the platform operating.**
 
-For a basic platform consisting primarily of a meteorological station, I estimate the initial cost at approximately:
+For a basic monitoring buoy consisting primarily of a meteorological station, I estimate the initial cost at approximately:
 
-### **\$12,000–15,000 to get the platform on the lake**
+### **\$\~17,000 to build the buoy**
 
-That includes equipment that would still need to be purchased, as well as the personnel time required to build and deploy the system.
+That includes a meteorological station equipment that would still need to be purchased, as well as the personnel time required to build and deploy the system.
 
 Some critical equipment is already available through UFI, which helps reduce the total cost.
 
-Additional equipment needed for even a basic platform includes:
-
 - **Datalogger — approximately \$1,600** The datalogger is essentially the brain of the system, collecting and storing the sensor data.
 
-- **Cellular modem — approximately \$200** Allows the buoy to transmit data back to shore.
+- **Cellular modem + data transmission plan — approximately \$350** Allows the buoy to transmit data back to shore.
 
-- **Marine navigation light — approximately \$150**
+- **Buoy hull and moorings — approximately \$3 - 5,000.** UFI Has a number of hulls in our inventory suitable to Oneida Lake.
 
-UFI may have an extra datalogger and/or modem available in 2027, although that depends on the needs of other projects.
+![Buoy hulls in storage at UFI.](images/orangebuoy.jpg){fig-align="center" width="188"}
 
 Once deployed, I estimate the cost to operate the site at approximately:
 
-### **\$5,000–7,000 per season**
+### **\$15,000 per season**
 
-That assumes approximately one day to deploy the buoy, one day to retrieve it at the end of the season, and one or two additional trips for maintenance or repairs, plus time to maintain the webpage interface, and time to clean, store and prep the buoy in the off season. This estimate does not include major purchases of additional sensors.
+That assumes **two days to prep and deploy** the buoy, **one day to retrieve it** at the end of the season, and **three additional trips for maintenance or repairs**. There is also time included to maintain the webpage interface, and time to clean, store and prep the buoy in the off season.
+
+This estimate does not include major purchases of additional sensors directly, however, unused funds beyond what is required for routine maintenance and operation can be carried forward for equipment purchases.
 
 ## Where could this lead?
 
@@ -139,6 +137,26 @@ The meteorological station would be only the beginning.
 Once a platform is established on the lake, additional sensors could be added as funding and equipment become available.
 
 UFI already operates or has experience with several types of equipment that could eventually be incorporated into the platform.
+
+### Water Temperature
+
+"Thermistor chains" can be custom configured to provide water temperature data at known depths
+
+- Public interest for recreation
+- Research interest to support lake management decisions
+- Moderate cost, depending on number of sensors (\$1,500 for three sensors plus \$350 per additional sensor)
+
+### Webcam
+
+- Provide on the water view of conditions for recreation
+- Outreach opportunity for community organizations
+- Affordable (\$750 - \$1,000)
+
+### Wave Data
+
+- Critical for safe recreation
+- Supplement to just wind speed and direction
+- More expensive to monitor (\$5,000 + for just equipment, additional deployment and retrieval costs depending on equipment used)
 
 ### Multiparameter water-quality sonde
 
@@ -178,13 +196,15 @@ In particular, temperature and dissolved oxygen measurements could help document
 
 The location would also provide a useful combination of **public information and scientific value**: the same platform that tells someone how windy it is on the lake could also contribute to a long-term record of how Oneida Lake is changing.
 
+While this would be the optimal location, it may be necessary to adjust due to the high volume of boat traffic on the lake. Final location will be decided on a basis of providing valuable information while ensuring public safety.
+
 ------------------------------------------------------------------------
 
 ## The goal for 2027
 
-I don't think we need to build the ultimate Oneida Lake monitoring station on day one.
+We don't need to build the ultimate Oneida Lake monitoring station on day one.
 
-**If we can get a basic meteorological station onto the lake for the 2027 season, I would consider that a huge success.**
+**If we can get a basic meteorological station onto the lake for the 2027 season, I would consider that a huge success.** Depending on fundraising success, it may only be feasible to build a shore-based station in the first season, then expand onto the water in following years with additional funding support.
 
 From there, the platform could become something much more valuable over time.
 
