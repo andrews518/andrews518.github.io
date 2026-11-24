@@ -60,7 +60,7 @@ UFI has submitted a formal proposal to OLA for a collaboration to support a buoy
 
 ## What would the buoy provide?
 
-![UFI engineer troubleshooting a Lake Ontario buoy, with MET station in background. ](images/sodus_dod.jpg){fig-align="center" width="188"}
+![UFI engineer troubleshooting a Lake Ontario buoy, with MET station in background.](images/sodus_dod.jpg){fig-align="center" width="188"}
 
 The initial goal is to provide the information that would be most useful to people using the lake.
 
